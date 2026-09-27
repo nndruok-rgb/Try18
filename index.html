@@ -129,7 +129,7 @@ footer{display:flex;justify-content:space-between;color:#667085;font-size:11px;p
         <span class="arrow">↗</span>
       </a>
 
-      <a class="social-card telegram" href="https://t.me/tryatoyii_ly" target="_blank" rel="noopener noreferrer">
+      <a class="social-card telegram" href="https://t.me/ratry_kh" target="_blank" rel="noopener noreferrer">
         <span class="icon" aria-hidden="true">
           <svg viewBox="0 0 24 24"><path d="M21.6 4.3 18.4 20c-.24 1.1-.9 1.37-1.83.85l-5.02-3.7-2.42 2.33c-.27.27-.5.5-1.03.5l.37-5.1 9.28-8.38c.4-.37-.09-.57-.62-.2L5.67 13.6.73 12.05c-1.08-.34-1.1-1.08.23-1.58L20.27 3.1c.9-.33 1.69.2 1.33 1.2Z"/></svg>
         </span>
